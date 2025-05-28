@@ -4,7 +4,7 @@
 
 This is the enhanced and updated version of the **MSVA** (Multi Source Visual Attention) model for **Supervised Video Summarization**, incorporating significant improvements proposed in:
 
-> **Nazia Ramzan**  
+> **Nazia Ramzan, Nasir Khan**  
 > *Multi-Media Video Summarization Using Parallel Deep Semantic Features*  
 > University of Engineering and Technology, Lahore, Pakistan
 
